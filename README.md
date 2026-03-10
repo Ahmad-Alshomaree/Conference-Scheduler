@@ -38,3 +38,4 @@ The `initializeDatabase` helper will seed some sample users and always ensure an
 5. The admin may sign out using the link in the sidebar.
 
 > **Note:** The sign-in is intentionally minimal; it only checks the email against the configured admin address. In a production system you'd want stronger authentication.
+
